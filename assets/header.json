@@ -1,0 +1,9 @@
+{
+  "name"  : "Daniela Espinosa",
+  "email" : "danielaaeer@gmail.com",
+  "cel"   : "(271) 238 7763",
+  "social": {
+    "face": "^2.8.5",
+    "x": "^4.18.2"
+  }
+}
