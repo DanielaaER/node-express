@@ -1,7 +1,11 @@
 {
   "name"  : "Daniela Espinosa",
+  "title" : "Frontend Developer",
+  "objective" : "I want to be a great developer and learn new things every day.",
+  "photo": "https://avatars.githubusercontent.com/u/96072855?s=96&v=4",
   "email" : "danielaaeer@gmail.com",
-  "cel"   : "(271) 238 7763",
+  "tel"   : "(271) 238 7763",
+  "location" : "Orizaba, Veracruz, Mexico",
   "social": {
     "face": "^2.8.5",
     "x": "^4.18.2"
