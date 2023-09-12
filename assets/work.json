@@ -1,0 +1,29 @@
+[
+    {
+      "puesto": "Frontend ",
+      "empresa": "Roandai",
+      "fechaInicio": "Mayo 2023",
+      "fechaFin": "Actualidad",
+      "ciudad": "Orizaba",
+      "pais": "México",
+      "logros": [
+        "Frontend Developer in Flutter",
+        "Backend Developer in Python"
+      ]
+  
+    },
+    
+    {
+        "puesto": "Frontend ",
+        "empresa": "Roandai",
+        "fechaInicio": "Mayo 2023",
+        "fechaFin": "Actualidad",
+        "ciudad": "Orizaba",
+        "pais": "México",
+        "logros": [
+          "Frontend Developer in Flutter",
+          "Backend Developer in Python"
+        ]
+    
+      }
+]
