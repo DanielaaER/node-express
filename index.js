@@ -39,6 +39,14 @@ app.get('/certification', (req, res, next) => {
   });
   
  
+  app.get('/proxy', (req, res, next) => {
+    res.sendfile("assets/1a_proxy.json");
+    });
+      
+  app.get('/dev', (req, res, next) => {
+    res.sendfile("assets/1a_dev.json");
+    });
+    
   app.get('/interest', (req, res, next) => {
 	res.sendfile("assets/interest.json");
   });
